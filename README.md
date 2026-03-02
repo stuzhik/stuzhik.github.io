@@ -1,2 +1,1 @@
-# stuzhik.github.io
-stuzhik.github.io
+https://stuzhik.github.io
